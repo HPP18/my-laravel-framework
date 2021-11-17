@@ -1,0 +1,9 @@
+<?php
+return[
+    "database"=>[
+        "username"=>"root",
+        "password"=>"",
+        "dbName"=>"joins",
+        "host"=>"mysql:host=localhost"
+    ]
+];
